@@ -1,3 +1,9 @@
+"""
+空白の明け方が、処理ごとにまとまっててめっちゃ見やすいです！
+コメントもガシガシ書いていこう
+
+enemyもの部分も表示してみよう
+"""
 import pygame
 from pygame.locals import *
 pygame.init()
